@@ -1,0 +1,17 @@
+{
+  "model": "Embedding(64) -> GlobalAveragePooling1D -> Dropout(0.3) -> Dense(softmax)",
+  "trainable_params": 1922340,
+  "vocab_size": 30000,
+  "max_len": 58,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "class_weight": "balanced",
+  "epochs_trained": 16,
+  "best_epoch_min_val_loss": 11,
+  "training_time": "00:04:08",
+  "val_loss_at_best": 1.4536,
+  "val_accuracy_at_best": 0.6042,
+  "val_macro_f1_at_best": 0.5269,
+  "val_weighted_f1_at_best": 0.6167,
+  "val_top3_accuracy": 0.8357
+}

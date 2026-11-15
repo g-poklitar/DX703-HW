@@ -8,7 +8,7 @@
   "class_weight": "balanced",
   "epochs_trained": 16,
   "best_epoch_min_val_loss": 11,
-  "training_time": "00:04:08",
+  "training_time": "00:04:19",
   "val_loss_at_best": 1.4536,
   "val_accuracy_at_best": 0.6042,
   "val_macro_f1_at_best": 0.5269,
